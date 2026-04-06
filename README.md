@@ -33,7 +33,7 @@ A RESTful API built with **Laravel** for managing contacts and notes — designe
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mini_crm_api.git
+git clone https://github.com/RichiSoni/mini_crm_api.git
 cd mini_crm_api
 ```
 
